@@ -1,3 +1,5 @@
+#Dana Abu Hassira & Dana Sheikha
+
 # AI Coding Limitations & Human Oversight
 **دراسة تحليلية وبطاقة مخاطر بناء التطبيقات باستخدام الذكاء الاصطناعي**
 هل يستطيع AI بناء أي تطبيق نطلبه؟
